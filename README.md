@@ -2,7 +2,7 @@
 pg-docker-env is a repo to setup docker image of postgres on local environment
 
 ### running postgres in docker
-On root for initial build
+On root for initial build and start
 ```bash
 docker-compose up --build
 ```
